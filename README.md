@@ -27,15 +27,9 @@
 <h3 align="center">Contact me!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon" style="text-decoration: none;"/>
-  </a>
-  <a href="mailto:ehsanrafianjum@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-c71610?style=for-the-badge" alt="Gmail Icon" style="text-decoration: none;"/>
-  </a>
-  <a href="https://ehsanrafi.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/website-f2a60c?style=for-the-badge" alt="Website Icon" style="text-decoration: none;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon" style="text-decoration: none;"/></a>
+  <a href="mailto:ehsanrafianjum@gmail.com"><img src="https://img.shields.io/badge/gmail-c71610?style=for-the-badge" alt="Gmail Icon" style="text-decoration: none;"/></a>
+  <a href="https://ehsanrafi.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/website-f2a60c?style=for-the-badge" alt="Website Icon" style="text-decoration: none;"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer" alt="footer"/>
