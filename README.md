@@ -11,6 +11,8 @@
 <h3 align="center">Skills</h3>
 
 <p align="center">
+    <!-- <a href=""><img src="" ></a> -->
+    <img src="https://img.shields.io/badge/C%2B%2B-659ad2?style=for-the-badge&logo=C%2B%2B&link=https%3A%2F%2Fisocpp.org%2F" alt="C++">
     <!-- <img src="https://img.shields.io/badge/C%2B%2B-DD0031?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
