@@ -27,13 +27,13 @@
 <h3 align="center">Contact me!</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/">
+  <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon"/>
   </a>
-  <a href="mailto:ehsanrafianjum@gmail.com">
+  <a href="mailto:ehsanrafianjum@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/gmail-c71610?style=for-the-badge" alt="Gmail Icon"/>
   </a>
-  <a href="https://ehsanrafi.github.io/">
+  <a href="https://ehsanrafi.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/website-f2a60c?style=for-the-badge" alt="Website Icon"/>
   </a>
 </p>
