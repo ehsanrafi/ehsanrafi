@@ -1,20 +1,9 @@
-<style>
-  /* For dark mode */
-  @media (prefers-color-scheme: dark) {
-    .header-img {
-      content: url('https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header');
-    }
-  }
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header" alt="header"/> -->
+<!-- Dark mode header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header#gh-dark-mode-only" alt="header dark"/>
 
-  /* For light mode */
-  @media (prefers-color-scheme: light) {
-    .header-img {
-      content: url('https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header');
-    }
-  }
-</style>
-
-<img class="header-img" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header" alt="header"/>
+<!-- Light mode header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header#gh-light-mode-only" alt="header light"/>
 
 <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=B0B0B0&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
