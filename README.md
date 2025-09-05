@@ -28,19 +28,25 @@
 </p>
 
 <p align="center">
-    <a href="https://www.c-language.org/"><img height="75" src="./assets/c.svg" alt="C"/></a>
-    <a href="https://www.c-language.org/"><img height="75" src="./assets/c++.svg" alt="C++"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/python.svg" alt="Python"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/java.svg" alt="Java"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/javascript.svg" alt="JavaScript"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/html.svg" alt="HTML"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/css.svg" alt="CSS"/></a>
+    <a href=""><img height="45px" src="./assets/c.png"/></a>
+    <a href=""><img height="45px" src="./assets/c++.png"/></a>
+    <a href=""><img height="45px" src="./assets/javascript.png"/></a>
+    <a href=""><img height="45px" src="./assets/html.png"/></a>
+    <a href=""><img height="45px" src="./assets/css.png"/></a>
 </p>
 
 <p align="center">
-    <a href="https://python.org/"><img height="75" src="./assets/r.svg" alt="R"/></a>
-    <a href="https://python.org/"><img height="75" src="./assets/electron.svg" alt="R"/></a>
+    <a href=""><img height="45px" src="./assets/python.png"/></a>
+    <a href=""><img height="45px" src="./assets/electron.png"/></a>
+    <a href=""><img height="45px" src="./assets/docker.png"/></a>
+    <a href=""><img height="45px" src="./assets/sql.png"/></a>
+    <a href=""><img height="45px" src="./assets/mongodb.png"/></a>
 </p>
+<!-- comment -->
+<p align="center">
+    <a href=""><img height="45px" src="./assets/bash.png"/></a>
+</p>
+
 <h2 align="center"><font color="#808080">Contact me!</font></h2>
 
 <p align="center">
