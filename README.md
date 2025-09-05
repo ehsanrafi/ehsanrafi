@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/>
 
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=808080&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=gradient&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
     <img src="./assets/terminal.gif" alt="Terminal GIF"/>
 </p>
 
-<h2 align="center"><font color="#808080">Skills</h2>
+<h2 align="center">My Skills</h2>
 
 <p align="center">
     <a href="https://www.c-language.org/"><img height="45px" src="./assets/c.png"/></a>
@@ -31,7 +31,7 @@
     <a href="https://www.docker.com/"><img height="45px" src="./assets/docker.png"/></a>
 </p>
 
-<h2 align="center"><font color="#808080">Contact me!</font></h2>
+<h2 align="center">Contact me!</font></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/"><img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon" style="text-decoration: none;"/></a>
@@ -47,4 +47,4 @@
     </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/>
