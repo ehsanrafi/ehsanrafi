@@ -11,40 +11,24 @@
 <h2 align="center"><font color="#808080">Skills</h2>
 
 <p align="center">
-    <!-- <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-    <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-659ad2?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=Python&logoColor=black" alt="Python"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=Python&logoColor=black" alt="Java"></a> -->
-    <!-- <img src="https://img.shields.io/badge/C%2B%2B-659ad2?style=for-the-badge&logo=C%2B%2B&link=https%3A%2F%2Fisocpp.org%2F" alt="C++"> -->
-    <!-- <img src="https://img.shields.io/badge/C%2B%2B-DD0031?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/node.js-239120?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-    <img src="https://img.shields.io/badge/R-E34F26?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-    <img src="https://img.shields.io/badge/OpenGL-FCC624?style=for-the-badge&logo=OpenGL&logoColor=black" alt="OpenGL">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> -->
+    <a href="https://www.c-language.org/"><img height="45px" src="./assets/c.png"/></a>
+    <a href="https://isocpp.org/"><img height="45px" src="./assets/c++.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="45px" src="./assets/javascript.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="./assets/html.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="./assets/css.png"/></a>
 </p>
 
 <p align="center">
-    <a href=""><img height="45px" src="./assets/c.png"/></a>
-    <a href=""><img height="45px" src="./assets/c++.png"/></a>
-    <a href=""><img height="45px" src="./assets/javascript.png"/></a>
-    <a href=""><img height="45px" src="./assets/html.png"/></a>
-    <a href=""><img height="45px" src="./assets/css.png"/></a>
+    <a href="https://www.python.org/"><img height="45px" src="./assets/python.png"/></a>
+    <a href="https://www.electronjs.org/"><img height="45px" src="./assets/electron.png"/></a>
+    <a href="https://www.sql.org/"><img height="45px" src="./assets/sql.png"/></a>
+    <a href="https://www.mongodb.com/"><img height="45px" src="./assets/mongodb.png"/></a>
+    <a href="https://git-scm.com/"><img height="45px" src="./assets/git.png"/></a>
 </p>
 
 <p align="center">
-    <a href=""><img height="45px" src="./assets/python.png"/></a>
-    <a href=""><img height="45px" src="./assets/electron.png"/></a>
-    <a href=""><img height="45px" src="./assets/docker.png"/></a>
-    <a href=""><img height="45px" src="./assets/sql.png"/></a>
-    <a href=""><img height="45px" src="./assets/mongodb.png"/></a>
-</p>
-<!-- comment -->
-<p align="center">
-    <a href=""><img height="45px" src="./assets/bash.png"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img height="45px" src="./assets/bash.png"/></a>
+    <a href="https://www.docker.com/"><img height="45px" src="./assets/docker.png"/></a>
 </p>
 
 <h2 align="center"><font color="#808080">Contact me!</font></h2>
