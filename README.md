@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header" alt="header"/>
 
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=000000&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=808080&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
     <img src="./assets/terminal.gif" alt="Terminal GIF"/>
 </p>
 
-<h2 align="center"><font color="#D1D5DB">Skills</h2>
+<h2 align="center"><font color="#808080">Skills</h2>
 
 <p align="center">
     <!-- <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
@@ -27,7 +27,21 @@
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> -->
 </p>
 
-<h2 align="center"><font color="#D1D5DB">Contact me!</font></h2>
+<p align="center">
+    <a href="https://www.c-language.org/"><img height="75" src="./assets/c.svg" alt="C"/></a>
+    <a href="https://www.c-language.org/"><img height="75" src="./assets/c++.svg" alt="C++"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/python.svg" alt="Python"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/java.svg" alt="Java"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/javascript.svg" alt="JavaScript"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/html.svg" alt="HTML"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/css.svg" alt="CSS"/></a>
+</p>
+
+<p align="center">
+    <a href="https://python.org/"><img height="75" src="./assets/r.svg" alt="R"/></a>
+    <a href="https://python.org/"><img height="75" src="./assets/electron.svg" alt="R"/></a>
+</p>
+<h2 align="center"><font color="#808080">Contact me!</font></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/"><img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon" style="text-decoration: none;"/></a>
@@ -43,4 +57,4 @@
     </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer" alt="footer"/>
