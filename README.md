@@ -1,16 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=header" alt="header"/>
 
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=808080&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=B0B0B0&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
     <img src="./assets/terminal.gif" alt="Terminal GIF"/>
 </p>
 
-<h3 align="center">Skills</h3>
+<h3 align="center"><font color="grey">Skills</h3>
 
 <p align="center">
+    <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
     <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-659ad2?style=for-the-badge&logo=C%2B%2B" alt="C++"></a>
     <!-- <img src="https://img.shields.io/badge/C%2B%2B-659ad2?style=for-the-badge&logo=C%2B%2B&link=https%3A%2F%2Fisocpp.org%2F" alt="C++"> -->
     <!-- <img src="https://img.shields.io/badge/C%2B%2B-DD0031?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
@@ -24,7 +25,7 @@
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"> -->
 </p>
 
-<h3 align="center">Contact me!</h3>
+<h3 align="center"><font color="grey">Contact me!</font></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ehsan-rafi-anjum/"><img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge" alt="LinkedIn Icon" style="text-decoration: none;"/></a>
@@ -32,4 +33,4 @@
   <a href="https://ehsanrafi.github.io/"><img src="https://img.shields.io/badge/website-f2a60c?style=for-the-badge" alt="Website Icon" style="text-decoration: none;"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" alt="footer"/>
