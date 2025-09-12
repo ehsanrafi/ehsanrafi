@@ -31,7 +31,7 @@
     <a href="https://www.docker.com/"><img height="45px" src="./assets/docker.png"/></a>
 </p> -->
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.c-language.org/"><img height="45px" src="./assets/c.png"/></a>
     <a href="https://isocpp.org/"><img height="45px" src="./assets/c++.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="45px" src="./assets/javascript.png"/></a>
@@ -39,7 +39,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="./assets/css.png"/></a>
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.python.org/"><img height="45px" src="./assets/python.png"/></a>
     <a href="https://www.sql.org/"><img height="45px" src="./assets/sql.png"/></a>
     <a href="https://www.mongodb.com/"><img height="45px" src="./assets/mongodb.png"/></a>
@@ -47,7 +47,7 @@
     <a href="https://git-scm.com/"><img height="45px" src="./assets/git.png"/></a>
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="https://www.gnu.org/software/bash/"><img height="45px" src="./assets/bash.png"/></a>
     <a href="https://www.docker.com/"><img height="45px" src="./assets/docker.png"/></a>
 </div>
