@@ -11,24 +11,24 @@
 <h2 align="center">My Skills</h2>
 
 <p align="center">
-    <a href="https://www.c-language.org/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/c/c-original.svg" height="45px" /></a>
-    <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/cplusplus/cplusplus-original.svg" height="45px" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" height="45px" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" height="45px" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" height="45px" /></a>
+    <a href="https://www.c-language.org/"><img height="45px" src="./assets/c.png"/></a>
+    <a href="https://isocpp.org/"><img height="45px" src="./assets/c++.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="45px" src="./assets/javascript.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="./assets/html.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="./assets/css.png"/></a>
 </p>
 
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/python/python-original.svg" height="45px" /></a>
-    <a href="https://www.sql.org/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/sql/sql-original.svg" height="45px" /></a>
-    <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/mongodb/mongodb-original.svg" height="45px" /></a>
-    <a href="https://www.electronjs.org/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/electron/electron-original.svg" height="45px" /></a>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/git/git-original.svg" height="45px" /></a>
+    <a href="https://www.python.org/"><img height="45px" src="./assets/python.png"/></a>
+    <a href="https://www.sql.org/"><img height="45px" src="./assets/sql.png"/></a>
+    <a href="https://www.mongodb.com/"><img height="45px" src="./assets/mongodb.png"/></a>
+    <a href="https://www.electronjs.org/"><img height="45px" src="./assets/electron.png"/></a>
+    <a href="https://www.docker.com/"><img height="45px" src="./assets/docker.png"/></a>
 </p>
 
 <p align="center">
-    <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/bash/bash-original.svg" height="45px" /></a>
-    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/docker/docker-original.svg" height="45px" /></a>
+    <a href="https://www.gnu.org/software/bash/"><img height="45px" src="./assets/bash.png"/></a>
+    <a href="https://git-scm.com/"><img height="45px" src="./assets/git.png"/></a>
 </p>
 
 <h2 align="center">Contact me!</font></h2>
