@@ -29,6 +29,7 @@
 <p align="center">
     <a href="https://www.gnu.org/software/bash/"><img height="45px" src="./assets/bash.png"/></a>
     <a href="https://git-scm.com/"><img height="45px" src="./assets/git.png"/></a>
+    <a href="https://www.crewai.com/"><img height="45px" src="./assets/crewai.png"/></a>
 </p>
 
 <h2 align="center">Contact me!</font></h2>
