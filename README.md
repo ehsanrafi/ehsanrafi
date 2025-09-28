@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-    <img src="./assets/terminal.gif" loop="true" autoplay="true"/>
+    <video autoplay loop muted>
+        <source src="./assets/terminal.mp4" type="video/mp4"/>
+    </video>
 </p>
 
 <h2 align="center">My Skills</h2>
