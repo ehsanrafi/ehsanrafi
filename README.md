@@ -4,7 +4,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=gradient&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student"/></a>
 </p>
 
-![](./assets/terminal.mp4)
+<p align="center">
+    <img src="./assets/terminal.gif"/>
+</p>
 
 <h2 align="center">My Skills</h2>
 
