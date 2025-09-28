@@ -4,11 +4,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=750&duration=3000&pause=300&color=gradient&vCenter=true&width=435&lines=Hi!+I'm+Ehsan+Rafi+Anjum;Computer+Engineering+Student"/></a>
 </p>
 
-<p align="center">
-    <video controls autoplay loop muted>
-        <source src="./assets/terminal.mp4" type="video/mp4"/>
-    </video>
-</p>
+[![Testing](https://raw.githubusercontent.com/ehsanrafi/ehsanrafi/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/ehsanrafi/ehsanrafi/main/assets/terminal.mp4)
+
 
 <h2 align="center">My Skills</h2>
 
