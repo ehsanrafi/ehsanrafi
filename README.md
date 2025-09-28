@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="./assets/terminal.gif"/>
+    <img src="./assets/terminal.gif" loop="true" autoplay="true"/>
 </p>
 
 <h2 align="center">My Skills</h2>
