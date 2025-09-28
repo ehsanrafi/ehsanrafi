@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <video autoplay loop muted>
+    <video controls autoplay loop muted>
         <source src="./assets/terminal.mp4" type="video/mp4"/>
     </video>
 </p>
